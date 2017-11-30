@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="scut.carson_ho.socket_carson.MainActivity">
+
+
+
+    <net.ossrs.yasea.SrsCameraView
+        android:id="@+id/preview"
+        android:layout_width="fill_parent"
+        android:layout_height="510dp"
+        android:layout_below="@+id/url" />
+    SurfaceView
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/connect"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="连接服务" />
+
+        <Button
+            android:id="@+id/disconnect"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="断开连接" />
+
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/receive_message"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/Receive"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="接收信息" />
+
+        <EditText
+            android:visibility="gone"
+            android:id="@+id/edit"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/send"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="发送数据"/>
+        <Button
+            android:id="@+id/sendMsg"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="发送URL"/>
+        <Button
+            android:id="@+id/swCam"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="switch" />
+
+    </LinearLayout>
+    <EditText
+        android:id="@+id/url"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:visibility="gone" />
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <Button
+            android:id="@+id/publish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/url"
+            android:text="publish"
+            android:visibility="gone" />
+
+
+
+
+        <Button
+            android:id="@+id/bt_guaduan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="33dp"
+            android:layout_toRightOf="@+id/swCam"
+            android:text="挂断"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

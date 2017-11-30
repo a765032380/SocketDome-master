@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/gll/Desktop/Socket_learning-master/serialDemo/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/gll/Desktop/Socket_learning-master/serialDemo/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/gll/Desktop/Socket_learning-master/serialDemo/build/intermediates/res/merged/debug/layout_loopback.xml.flat",
+        "source": "/Users/gll/Desktop/Socket_learning-master/serialDemo/src/main/res/layout/loopback.xml"
+    },
+    {
+        "merged": "/Users/gll/Desktop/Socket_learning-master/serialDemo/build/intermediates/res/merged/debug/xml_serial_port_preferences.xml.flat",
+        "source": "/Users/gll/Desktop/Socket_learning-master/serialDemo/src/main/res/xml/serial_port_preferences.xml"
+    },
+    {
+        "merged": "/Users/gll/Desktop/Socket_learning-master/serialDemo/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/gll/Desktop/Socket_learning-master/serialDemo/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/gll/Desktop/Socket_learning-master/serialDemo/build/intermediates/res/merged/debug/layout_sending01010101.xml.flat",
+        "source": "/Users/gll/Desktop/Socket_learning-master/serialDemo/src/main/res/layout/sending01010101.xml"
+    },
+    {
+        "merged": "/Users/gll/Desktop/Socket_learning-master/serialDemo/build/intermediates/res/merged/debug/layout_console.xml.flat",
+        "source": "/Users/gll/Desktop/Socket_learning-master/serialDemo/src/main/res/layout/console.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Nov 28 15:52:20 CST 2017
+base.0=/Users/gll/Desktop/Socket_learning-master/sipDemo/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/gll/Desktop/Socket_learning-master/sipDemo/build/intermediates/transforms/dexMerger/debug/0/classes.dex
