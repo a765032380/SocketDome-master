@@ -5,13 +5,17 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="scut.carson_ho.socket_carson.MainActivity">
+    <SurfaceView
+        android:id="@+id/mVideoView"
+        android:layout_width="1dp"
+        android:layout_height="1dp" />
 
 
 
     <net.ossrs.yasea.SrsCameraView
         android:id="@+id/preview"
         android:layout_width="fill_parent"
-        android:layout_height="510dp"
+        android:layout_height="520dp"
         android:layout_below="@+id/url" />
     SurfaceView
     <LinearLayout
