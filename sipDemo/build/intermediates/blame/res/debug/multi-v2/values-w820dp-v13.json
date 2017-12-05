@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gll/Desktop/Socket_learning-master/sipDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "/Users/gll/StudioProjects/SocketDome-master/sipDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/res/values-w820dp/dimens.xml",
+                    "source": "/Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

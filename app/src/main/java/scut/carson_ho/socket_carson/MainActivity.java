@@ -146,7 +146,8 @@ public class MainActivity extends Activity implements RtmpHandler.RtmpListener,
                     case TPMSConsts.ARM_SERVICER_DOWM_START_VIDEO:
                         send(sendMsg(null, TPMSConsts.ARM_SEND_DOWM_START_VIDEO));
                         showToast("已收到服务器音频播放地址");
-                        mVedioPath = upPackageData.getMsgBodyBytes().toString();//门禁视频
+                        mVedioPath="rtmp://live.hkstv.hk.lxdns.com/live/hks";
+//                        mVedioPath = upPackageData.getMsgBodyBytes().toString();//门禁视频
                         mMediaPlayer.playMRL(mVedioPath);
 //                                        Intent intent=new Intent(MainActivity.this,com.nmbb.vlc.ui.VlcVideoActivity.class);
 //                                        intent.putExtra("url",upPackageData.getMsgBodyBytes().toString());

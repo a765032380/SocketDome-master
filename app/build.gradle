@@ -1,8 +1,13 @@
 apply plugin: 'com.android.application'
-
+apply plugin: 'org.greenrobot.greendao'
 android {
     compileSdkVersion 19
     buildToolsVersion '26.0.2'
+    greendao {
+        schemaVersion 1 //数据库版本号
+        daoPackage 'scut.carson_ho.socket_carson.dao' //自动生成的工具类的包名
+        targetGenDir 'src/main/java' //路径
+    }
 
     defaultConfig {
         applicationId "scut.carson_ho.socket_carson"
@@ -17,6 +22,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
 }
 
 dependencies {
@@ -24,4 +30,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:19.+'
     implementation files('libs/streaming.jar')
+    compile 'org.greenrobot:greendao:3.2.0'
+    compile'org.greenrobot:greendao-generator:3.2.0'
+    compile 'com.google.code.gson:gson:2.8.0'
 }

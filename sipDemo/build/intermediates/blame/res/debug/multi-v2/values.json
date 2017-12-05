@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gll/Desktop/Socket_learning-master/sipDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/gll/StudioProjects/SocketDome-master/sipDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,101,148",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "96,143,194"
-                    }
-                },
-                {
-                    "source": "/Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/res/values/strings.xml",
+                    "source": "/Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/res/values/dimens.xml",
+                    "source": "/Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/res/values/dimens.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "199,257",
                         "endColumns": "57,55",
                         "endOffsets": "252,308"
+                    }
+                },
+                {
+                    "source": "/Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
                     }
                 }
             ]

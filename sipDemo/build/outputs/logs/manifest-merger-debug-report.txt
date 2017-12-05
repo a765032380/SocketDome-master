@@ -1,67 +1,67 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:3:5-35
-		INJECTED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml
-		INJECTED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.CAMERA
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:5:5-65
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:5:22-62
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:5:22-62
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:6:5-71
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:6:5-71
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:6:22-68
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:6:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:7:5-81
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.FLASHLIGHT
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:8:5-69
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:8:5-69
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:8:22-66
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:8:22-66
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:10:5-70
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:10:5-70
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:10:19-67
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:10:19-67
 uses-feature#0x00020000
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:11:5-78
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:11:5-78
 	android:glEsVersion
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:11:19-51
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:11:19-51
 	android:required
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:11:52-75
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:11:52-75
 application
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:13:5-27:19
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:13:5-27:19
 	android:supportsRtl
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:16:9-41
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:16:9-41
 	android:icon
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:14:9-35
 activity#net.ossrs.yasea.demo.MainActivity
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:18:9-26:20
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:18:9-26:20
 	android:configChanges
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:20:13-59
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:20:13-59
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:19:13-40
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:19:13-40
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/gll/Desktop/Socket_learning-master/sipDemo/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/gll/StudioProjects/SocketDome-master/sipDemo/src/main/AndroidManifest.xml:24:27-74
